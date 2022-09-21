@@ -1,1 +1,1 @@
-# kimchi1
+# Kimchi
